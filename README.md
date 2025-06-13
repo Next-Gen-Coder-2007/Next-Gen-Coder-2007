@@ -25,7 +25,7 @@ I enjoy working on:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -55,33 +55,15 @@ I enjoy working on:
 
 ### GitHub Stats
 
-![Subash's GitHub stats](https://github-readme-stats.vercel.app/api?username=subashb1&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subashb1&layout=compact&theme=default)
-
----
-
-### Projects
-
-- School Management System with Admin, Student, Teacher roles
-- Library Management System with Dashboard UI
-- Train Ticket Booking System with Flask and SQLAlchemy
-- Face Recognition Attendance System
-- Real-time Hand Tracking using MediaPipe
-
----
-
-### Currently Learning
-
-- Java Spring Boot
-- Advanced Data Structures and Algorithms in Python
-- Full-Stack Projects using the MERN Stack
+![Subash's GitHub stats](https://github-readme-stats.vercel.app/api?username=subashb1&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subashb1&layout=compact&theme=dark)
 
 ---
 
 ### Contact
 
 - Email: subash@example.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/subash-baskaran)
 - Portfolio: [yourportfolio.com](https://yourportfolio.com) (Coming Soon)
 
 Thank you for visiting. Feel free to explore my repositories or connect to collaborate.
