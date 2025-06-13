@@ -99,12 +99,12 @@ I work on:
   </a>
 
   <!-- Twitter -->
-  <a href="https://twitter.com/yourusername">
+  <a href="https://x.com/subash59245">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter" />
   </a>
 
   <!-- Instagram (from Icons8) -->
-  <a href="https://instagram.com/yourusername">
+  <a href="https://instagram.com/yourusername](https://www.instagram.com/subash_8776">
     <img src="https://img.icons8.com/ios-filled/50/e4405f/instagram-new.png" height="40" alt="Instagram" />
   </a>
 </p>
