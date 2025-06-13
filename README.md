@@ -74,3 +74,6 @@ I work on:
 ---
 
 [![Subash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Next-Gen-Coder-2007&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Contribution Graph Animation
+
+![GitHub Snake Light](https://github.com/subashb1/subashb1/blob/output/github-contribution-grid-snake.svg)
