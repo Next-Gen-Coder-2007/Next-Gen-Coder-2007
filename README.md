@@ -65,7 +65,6 @@ I work on:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Next-Gen-Coder-2007&theme=default)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Next-Gen-Coder-2007&theme=flat&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
