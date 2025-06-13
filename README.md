@@ -1,23 +1,28 @@
+<!-- Typing animation header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Subash+B;B.Tech+CSE+(AI)+Student;Full+Stack+Developer;AI+%7C+ML+%7C+Flask+%7C+MERN+Stack+Explorer" alt="Typing SVG" />
+</h1>
+
+---
 # Subash B
 
 ## B.Tech CSE (AI) Student | Tech Enthusiast | Full-Stack Developer
 
 Welcome to my GitHub profile. I am passionate about building real-world projects using modern technologies. My interests span across full-stack web development, artificial intelligence, and real-time computer vision systems.
 
+
+## Tech Playground
+
+I work on:
+- Full-stack web apps using Flask and the MERN stack
+- School and Library Management Systems
+- Face recognition and hand tracking using OpenCV
+- REST APIs and real-time tools
+- Data analysis and machine learning projects
+
 ---
 
-### Tech Playground
-
-I enjoy working on:
-- Artificial Intelligence and Machine Learning
-- Web Development using Flask and the MERN Stack
-- Python Projects and Automation Scripts
-- Computer Vision using OpenCV
-- Systems like School Management and Ticket Booking Platforms
-
----
-
-### Tools and Technologies
+## Tools and Technologies
 
 #### Languages & Frameworks
 
@@ -41,7 +46,7 @@ I enjoy working on:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### AI / Data Science
@@ -53,17 +58,32 @@ I enjoy working on:
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
-![Subash's GitHub stats](https://github-readme-stats.vercel.app/api?username=subashb1&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subashb1&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subashb1&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashb1&layout=compact&theme=default" width="48%" />
+</p>
 
 ---
 
-### Contact
+## Currently Learning
 
-- Email: subash59245@gmail.com
-- LinkedIn: [linkedin.com/in/subash-baskaran](https://www.linkedin.com/in/subash-baskaran)
-- Portfolio: [portfolio.com](https://yourportfolio.com) (Coming Soon)
+- Java Spring Boot
+- Advanced DSA in Python
+- MERN Stack Projects and Deployment
 
-Thank you for visiting. Feel free to explore my repositories or connect to collaborate.
+---
+
+## Contact
+
+- Email: `subash@example.com`
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+
+---
+
+<!-- Activity graph (optional) -->
+<!--
+[![Subash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subashb1&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
