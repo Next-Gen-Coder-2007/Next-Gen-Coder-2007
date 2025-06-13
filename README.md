@@ -75,26 +75,40 @@ I work on:
 
 ## Connect with Me
 
+## Contact
+
 <p align="center">
+  <!-- Gmail -->
   <a href="mailto:subash59245@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail" />
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/subash-baskaran">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
+
+  <!-- GitHub (white icon) -->
   <a href="https://github.com/Next-Gen-Coder-2007">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" height="40" alt="GitHub" />
   </a>
+
+  <!-- Portfolio (generic web icon) -->
   <a href="https://yourportfolio.com">
-    <img src="https://www.vectorlogo.zone/logos/netlifyapp/netlifyapp-icon.svg" height="40" alt="Portfolio" />
+    <img src="https://img.icons8.com/ios-filled/50/4a90e2/domain.png" height="40" alt="Portfolio" />
   </a>
+
+  <!-- Twitter -->
   <a href="https://twitter.com/yourusername">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter" />
   </a>
+
+  <!-- Instagram (from Icons8) -->
   <a href="https://instagram.com/yourusername">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram" />
+    <img src="https://img.icons8.com/ios-filled/50/e4405f/instagram-new.png" height="40" alt="Instagram" />
   </a>
 </p>
+
 
 
 ---
