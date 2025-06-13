@@ -65,14 +65,6 @@ I work on:
 
 ---
 
-## Currently Learning
-
-- Java Spring Boot
-- Advanced DSA in Python
-- MERN Stack Projects and Deployment
-
----
-
 ## Contact
 
 - Email: subash59245@gmail.com
