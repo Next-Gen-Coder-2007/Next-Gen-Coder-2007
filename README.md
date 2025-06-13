@@ -1,10 +1,6 @@
-# Hi there, I'm Subash B 👋
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Subash+B;B.Tech+CSE+(AI)+Student;Full+Stack+Developer;AI+%7C+ML+%7C+Flask+%7C+MERN+Stack+Explorer" alt="Typing SVG" />
 </h1>
-
-## 🎓 B.Tech CSE (AI) Student | 💻 Tech Enthusiast | 🚀 Full-Stack Developer
 
 Welcome to my GitHub profile! I am passionate about building real-world projects using modern technologies. My interests span across full-stack web development, artificial intelligence, and real-time computer vision systems.
 
@@ -50,7 +46,9 @@ I work on:
 ### Tools & Platforms
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg&theme=dark" alt="GitHub" width="50" height="50"/>
+  <a href="https://github.com/Next-Gen-Coder-2007">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
 </p>
@@ -77,6 +75,8 @@ I work on:
 
 ## Connect with Me
 
+## Contact
+
 <p align="center">
   <a href="mailto:subash59245@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -97,6 +97,7 @@ I work on:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
 
 ---
 
