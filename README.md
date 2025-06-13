@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Subash+B;B.Tech+CSE+(AI)+Student;Full+Stack+Developer;AI+%7C+ML+%7C+Flask+%7C+MERN+Stack+Explorer" alt="Typing SVG" />
 </h1>
 
----
-# Subash B
 
 ## B.Tech CSE (AI) Student | Tech Enthusiast | Full-Stack Developer
 
@@ -77,13 +75,10 @@ I work on:
 
 ## Contact
 
-- Email: `subash@example.com`
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- Email: subash59245@gmail.com
+- LinkedIn: [linkedin.com/in/subash-baskaran](https://linkedin.com/in/subash-baskaran)
+- Portfolio: [portfolio.com](https://yourportfolio.com)
 
 ---
 
-<!-- Activity graph (optional) -->
-<!--
 [![Subash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subashb1&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
