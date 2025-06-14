@@ -95,7 +95,7 @@ I work on:
 
   <!-- Portfolio (generic web icon) -->
   <a href="https://next-gen-coder-2007.github.io/personal-portfolio">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/website/website-original.svg" height="40" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-View-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Portfolio" />
   </a>
 
   <!-- Twitter -->
