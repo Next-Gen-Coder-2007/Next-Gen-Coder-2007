@@ -66,10 +66,14 @@ I work on:
   <img src="https://streak-stats.demolab.com?user=Next-Gen-Coder-2007&theme=radical&hide_border=true" width="60%" />
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Next-Gen-Coder-2007&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+
 ---
 
 ## Activity Graph
 [![Subash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Next-Gen-Coder-2007&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
