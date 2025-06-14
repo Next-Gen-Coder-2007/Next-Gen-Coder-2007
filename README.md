@@ -64,7 +64,6 @@ I work on:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Next-Gen-Coder-2007&theme=radical&hide_border=true" width="60%" />
-  <img src="https://ghchart.rshah.org/Next-Gen-Coder-2007&theme=radical" alt="GitHub Contribution Graph" />
 </div>
 
 
