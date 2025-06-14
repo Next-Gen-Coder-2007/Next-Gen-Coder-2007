@@ -95,7 +95,7 @@ I work on:
 
   <!-- Portfolio (generic web icon) -->
   <a href="https://yourportfolio.com">
-    <img src="https://img.icons8.com/ios-filled/50/4a90e2/domain.png" height="40" alt="Portfolio" />
+    <img src="https://next-gen-coder-2007.github.io/personal-portfolio/" height="40" alt="Portfolio" />
   </a>
 
   <!-- Twitter -->
