@@ -77,8 +77,6 @@ I work on:
 
 ## Connect with Me
 
-## Contact
-
 <p align="center">
   <!-- Gmail -->
   <a href="mailto:subash59245@gmail.com">
