@@ -64,9 +64,8 @@ I work on:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Next-Gen-Coder-2007&theme=radical&hide_border=true" width="60%" />
+  <img src="https://ghchart.rshah.org/Next-Gen-Coder-2007" alt="GitHub Contribution Graph" />
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Next-Gen-Coder-2007&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
