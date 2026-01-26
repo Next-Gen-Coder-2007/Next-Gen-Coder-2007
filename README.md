@@ -64,6 +64,9 @@ I'm committed to continuous learning and staying at the forefront of technology,
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C"/><br>C
       </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C"/><br>C
+      </td>
     </tr>
   </tbody>
 </table>
@@ -260,20 +263,6 @@ I'm committed to continuous learning and staying at the forefront of technology,
 <h3>Quote of the Day</h3>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<h2 align="center">Let's Connect!</h2>
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subash59245@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subash-baskaran)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://next-gen-coder-2007.github.io/personal-portfolio)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/subash59245)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subash_8776)
 
 </div>
 
