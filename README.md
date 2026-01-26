@@ -16,13 +16,14 @@
 
   | Portfolio | Leetcode | LinkedIn | Twitter | Instagram |
   | --- | --- | --- | --- | --- |
-  | 
+  |
   [![Portfolio](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Portfolio&size=square)](https://next-gen-coder-2007.github.io/personal-portfolio) |
-  [![LeetCode](https://img.shields.io/badge/LeetCode-subashB_programmer-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/subashB_programmer) |
+  [![LeetCode](https://bentos.jkominovic.dev/api/v1/generic-card?icon=leetcode&subtitle=LeetCode&size=square)](https://leetcode.com/u/subashB_programmer) |
   [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Fsubash-baskaran&subtitle=@subash-baskaran&size=square)](https://linkedin.com/in/subash-baskaran) |
   [![Twitter](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fsubash59245&subtitle=@subash59245&size=square)](https://x.com/subash59245) |
   [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Finstagram.com%2Fsubash_8776&subtitle=@subash_8776&size=square)](https://www.instagram.com/subash_8776) |
 </div>
+
 
 <br>
 
