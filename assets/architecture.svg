@@ -1,0 +1,47 @@
+<svg width="900" height="150" viewBox="0 0 900 150"
+xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.box {
+  fill: none;
+  stroke: #00d1ff;
+  stroke-width: 2;
+  rx: 8;
+}
+
+.text {
+  fill: #00d1ff;
+  font-family: monospace;
+  font-size: 14px;
+}
+
+.flow {
+  stroke-dasharray: 6;
+  animation: move 2.5s linear infinite;
+}
+
+@keyframes move {
+  from { stroke-dashoffset: 0; }
+  to { stroke-dashoffset: -40; }
+}
+</style>
+
+<rect x="30" y="45" width="150" height="60" class="box"/>
+<text x="105" y="80" text-anchor="middle" class="text">Frontend</text>
+
+<line x1="180" y1="75" x2="300" y2="75" stroke="#00d1ff" class="flow"/>
+
+<rect x="300" y="45" width="150" height="60" class="box"/>
+<text x="375" y="80" text-anchor="middle" class="text">Backend</text>
+
+<line x1="450" y1="75" x2="570" y2="75" stroke="#00d1ff" class="flow"/>
+
+<rect x="570" y="45" width="150" height="60" class="box"/>
+<text x="645" y="80" text-anchor="middle" class="text">APIs</text>
+
+<line x1="720" y1="75" x2="840" y2="75" stroke="#00d1ff" class="flow"/>
+
+<rect x="840" y="45" width="150" height="60" class="box"/>
+<text x="915" y="80" text-anchor="middle" class="text">Database</text>
+
+</svg>
