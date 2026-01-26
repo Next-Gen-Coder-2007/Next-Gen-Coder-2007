@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <h2>🌐 Connect with Me</h2>
+  <h2>Connect with Me</h2>
   <p>Let's build something amazing together!</p>
 
   | Portfolio | GitHub | LinkedIn | Twitter | Instagram |
@@ -32,7 +32,7 @@
   <img src="https://komarev.com/ghpvc/?username=Next-Gen-Coder-2007&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">About Me</h2>
 
 As a passionate **Full-Stack Developer** and **B.Tech CSE (AI) Student**, I specialize in building scalable web applications using the **MERN Stack** and **Flask**. My expertise spans across **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**, where I develop intelligent systems that solve real-world problems.
 
@@ -42,7 +42,7 @@ I'm committed to continuous learning and staying at the forefront of technology,
 
 <br>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <h3 align="center">Languages & Frameworks</h3>
 
@@ -196,42 +196,12 @@ I'm committed to continuous learning and staying at the forefront of technology,
 
 <br>
 
-<h2 align="center">🎯 What I'm Working On</h2>
 
-<table>
-<tr>
-<td width="50%">
-
-#### 🌐 Web Development
-- 🏫 **School Management Systems**
-- 🗳️ **Voting Applications**
-- 🔥 **Real-time Web Tools**
-- 📱 **Full Stack MERN Applications**
-
-</td>
-<td width="50%">
-
-#### 🤖 AI & Computer Vision
-- 👁️ **Face Recognition Systems**
-- ✋ **Hand Tracking Applications**
-- 📊 **Data Analysis Projects**
-- 🧠 **Machine Learning Models**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<h3 align="center">📊 GitHub Analytics</h3>
+<h3 align="center">GitHub Analytics</h3>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Next-Gen-Coder-2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Next-Gen-Coder-2007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Next-Gen-Coder-2007&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" width="60%"/>
 </div>
 
 <br/>
@@ -242,52 +212,11 @@ I'm committed to continuous learning and staying at the forefront of technology,
 
 ---
 
-<h3 align="center">🏆 GitHub Achievements</h3>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Next-Gen-Coder-2007&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
-</div>
-
----
-
-<h2 align="center">🏆 Featured Projects</h2>
+<h3 align="center">Professional Highlights</h3>
 
 <div align="center">
 
-```python
-featured_projects = [
-    {
-        "name": "School Management System",
-        "tech": ["Flask", "MongoDB", "JavaScript"],
-        "description": "Complete school administration platform with student, teacher, and course management"
-    },
-    {
-        "name": "Voting System",
-        "tech": ["Node.js", "Express", "MySQL"],
-        "description": "Secure online voting application with real-time results"
-    },
-    {
-        "name": "Face Recognition System",
-        "tech": ["Python", "OpenCV", "Deep Learning"],
-        "description": "Real-time face detection and recognition with high accuracy"
-    },
-    {
-        "name": "Hand Tracking Application",
-        "tech": ["OpenCV", "Python", "Computer Vision"],
-        "description": "Advanced gesture recognition and hand tracking system"
-    }
-]
-```
-
-</div>
-
----
-
-<h3 align="center">📈 Professional Highlights</h3>
-
-<div align="center">
-
-| 🎓 **Education** | 💻 **Development** | 🤖 **AI/ML** | 🔧 **Tools** |
+| **Education** | **Development** | **AI/ML** | **Tools** |
 |:---:|:---:|:---:|:---:|
 | B.Tech CSE (AI) | MERN Stack | Computer Vision | Git, VS Code |
 | Strong Foundation | Full Stack Projects | OpenCV Projects | Postman, APIs |
@@ -309,7 +238,7 @@ featured_projects = [
 
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">
-    ⚡ Git Stats Summary
+    Git Stats Summary
   </summary>
   
   <br>
@@ -320,7 +249,7 @@ featured_projects = [
 
 ---
 
-<h3 align="center">📊 Profile Statistics</h3>
+<h3 align="center">Profile Statistics</h3>
 
 <div align="center">
 
@@ -334,7 +263,7 @@ featured_projects = [
 
 <div align="center">
 
-<h3>💡 Quote of the Day</h3>
+<h3>Quote of the Day</h3>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 
@@ -342,7 +271,7 @@ featured_projects = [
 
 ---
 
-<h2 align="center">📫 Let's Connect!</h2>
+<h2 align="center">Let's Connect!</h2>
 
 <div align="center">
 
@@ -357,7 +286,7 @@ featured_projects = [
 ---
 
 <details>
-<summary><strong>🎮 Wanna Play a Game?</strong></summary>
+<summary><strong>Wanna Play a Game?</strong></summary>
 
 <br>
 
