@@ -1,151 +1,381 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=200&section=header&text=SUBASH%20BASKARAN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+
 <div align="center">
+  <a href="https://next-gen-coder-2007.github.io/personal-portfolio">
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Subash%20Baskaran&description=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20specializing%20in%20MERN%20Stack,%20Flask,%20and%20Computer%20Vision.%20Building%20intelligent%20systems%20and%20real-world%20applications%20that%20make%20a%20difference.%20Passionate%20about%20pushing%20technological%20boundaries%20and%20delivering%20exceptional%20results.&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2FNext-Gen-Coder-2007&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&instagram=subash_8776&linkedin=subash-baskaran&github=Next-Gen-Coder-2007&twitter=subash59245" alt="Subash Baskaran's Card" />
+  </a>
+</div>
 
-# SUBASH BASKARAN
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> , I'm Subash Baskaran</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;MERN+Stack+%7C+Flask+%7C+Computer+Vision;Building+Real-World+Solutions" alt="Typing Animation" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=B.Tech+CSE+(AI)+Student;Full-Stack+Developer;AI+%26+ML+Explorer;MERN+Stack+%7C+Flask+%7C+Python;Computer+Vision+Engineer;" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Tech Enthusiast | Problem Solver | Innovation Driver
+</p>
+
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <p>Let's build something amazing together!</p>
+
+  | Portfolio | GitHub | LinkedIn | Twitter | Instagram |
+  | --- | --- | --- | --- | --- |
+  | [![Portfolio](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Portfolio&size=square)](https://next-gen-coder-2007.github.io/personal-portfolio) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FNext-Gen-Coder-2007&subtitle=@Next-Gen-Coder-2007&size=square)](https://github.com/Next-Gen-Coder-2007) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Fsubash-baskaran&subtitle=@subash-baskaran&size=square)](https://linkedin.com/in/subash-baskaran) | [![Twitter](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fsubash59245&subtitle=@subash59245&size=square)](https://x.com/subash59245) | [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Finstagram.com%2Fsubash_8776&subtitle=@subash_8776&size=square)](https://www.instagram.com/subash_8776) |
 
 </div>
 
-<br/>
+<br>
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   B.Tech CSE (AI) • Building Intelligent Systems & Web Applications     ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Next-Gen-Coder-2007&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
 
-<br/>
+<h2 align="center">🚀 About Me</h2>
 
-## ⚡ STACK
+As a passionate **Full-Stack Developer** and **B.Tech CSE (AI) Student**, I specialize in building scalable web applications using the **MERN Stack** and **Flask**. My expertise spans across **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**, where I develop intelligent systems that solve real-world problems.
 
-<table align="center">
+With a strong foundation in both frontend and backend technologies, I create seamless user experiences while implementing robust server-side logic. My projects range from comprehensive **School Management Systems** to advanced **Face Recognition** applications, demonstrating my ability to tackle diverse technical challenges.
+
+I'm committed to continuous learning and staying at the forefront of technology, always exploring new frameworks, tools, and methodologies to deliver exceptional results.
+
+<br>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<h3 align="center">Languages & Frameworks</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="8" align="center" style="color: white;">Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/><br>Python
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/><br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/><br>HTML5
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3"/><br>CSS3
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C"/><br>C
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Frontend Development</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/><br>React
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/><br>HTML5
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3"/><br>CSS3
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/><br>JavaScript
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Backend Development</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express.js"/><br>Express.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="2" align="center" style="color: white;">Databases</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/><br>MongoDB
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/><br>MySQL
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center">AI/ML & Data Science</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">AI/ML Tools & Libraries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/opencv-1.svg" width="50" height="50" alt="OpenCV"/><br>OpenCV
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50" alt="NumPy"/><br>NumPy
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="80" height="50" alt="Pandas"/><br>Pandas
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center">Development Tools</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Tools & Platforms</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/><br>Git
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code"/><br>VS Code
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/><br>Postman
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<br>
+
+<h2 align="center">🎯 What I'm Working On</h2>
+
+<table>
 <tr>
-<td align="center" width="33%">
+<td width="50%">
 
-### FRONTEND
-```text
-React
-JavaScript
-HTML5 • CSS3
-```
-
-</td>
-<td align="center" width="33%">
-
-### BACKEND
-```text
-Node.js • Express
-Flask • Python
-REST APIs
-```
+#### 🌐 Web Development
+- 🏫 **School Management Systems**
+- 🗳️ **Voting Applications**
+- 🔥 **Real-time Web Tools**
+- 📱 **Full Stack MERN Applications**
 
 </td>
-<td align="center" width="33%">
+<td width="50%">
 
-### DATABASE
-```text
-MongoDB
-MySQL
-```
+#### 🤖 AI & Computer Vision
+- 👁️ **Face Recognition Systems**
+- ✋ **Hand Tracking Applications**
+- 📊 **Data Analysis Projects**
+- 🧠 **Machine Learning Models**
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br>
 
-## 🎯 FOCUS AREAS
-
-<div align="center">
-
-| **Web Development** | **AI/ML** | **Computer Vision** |
-|:---:|:---:|:---:|
-| Full-stack applications | Machine Learning models | Face recognition |
-| School Management Systems | Data analysis | Hand tracking |
-| Voting Systems | Predictive analytics | OpenCV projects |
-| Real-time tools | Neural networks | Real-time processing |
-
-</div>
-
-<br/>
-
-## 📊 METRICS
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Next-Gen-Coder-2007&show_icons=true&theme=dark&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=8b5cf6&border_color=30363d&hide_border=false&border_radius=8" width="49%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=Next-Gen-Coder-2007&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=6366f1&fire=8b5cf6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6366f1&sideLabels=8b5cf6&dates=8b8b8b&border_radius=8" width="49%" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Next-Gen-Coder-2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Next-Gen-Coder-2007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Next-Gen-Coder-2007&bg_color=0d1117&color=c9d1d9&line=6366f1&point=8b5cf6&area=true&hide_border=false&border_color=30363d&radius=8" width="98%" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
-## 🛠️ TECH MATRIX
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-### Data & AI
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
-
-<br/>
-
-## 🌐 CONNECT
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subash59245@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subash-baskaran)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://next-gen-coder-2007.github.io/personal-portfolio)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/subash59245)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subash_8776)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Next-Gen-Coder-2007&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" width="60%"/>
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Next-Gen-Coder-2007&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</div>
 
-```text
-╭─────────────────────────────────────────╮
-│  "Code is like humor. When you have to │
-│   explain it, it's bad." — Cory House   │
-╰─────────────────────────────────────────╯
+---
+
+<h3 align="center">🏆 GitHub Achievements</h3>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Next-Gen-Coder-2007&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+```python
+featured_projects = [
+    {
+        "name": "School Management System",
+        "tech": ["Flask", "MongoDB", "JavaScript"],
+        "description": "Complete school administration platform with student, teacher, and course management"
+    },
+    {
+        "name": "Voting System",
+        "tech": ["Node.js", "Express", "MySQL"],
+        "description": "Secure online voting application with real-time results"
+    },
+    {
+        "name": "Face Recognition System",
+        "tech": ["Python", "OpenCV", "Deep Learning"],
+        "description": "Real-time face detection and recognition with high accuracy"
+    },
+    {
+        "name": "Hand Tracking Application",
+        "tech": ["OpenCV", "Python", "Computer Vision"],
+        "description": "Advanced gesture recognition and hand tracking system"
+    }
+]
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Next-Gen-Coder-2007&color=6366f1&style=flat-square)
+</div>
+
+---
+
+<h3 align="center">📈 Professional Highlights</h3>
+
+<div align="center">
+
+| 🎓 **Education** | 💻 **Development** | 🤖 **AI/ML** | 🔧 **Tools** |
+|:---:|:---:|:---:|:---:|
+| B.Tech CSE (AI) | MERN Stack | Computer Vision | Git, VS Code |
+| Strong Foundation | Full Stack Projects | OpenCV Projects | Postman, APIs |
+| AI Specialization | Flask Applications | Data Analysis | Version Control |
+
+</div>
+
+---
+
+<h3 align="center">GitHub Contribution Activity</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Next-Gen-Coder-2007&custom_title=Subash's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=00D9FF&line=1E90FF&point=1E90FF&area_color=000000&title_color=00D9FF&area=true" alt="GitHub Activity Graph" />
+</div>
+
+<a href="https://github.com/Next-Gen-Coder-2007">
+    <img src="https://ghchart.rshah.org/Next-Gen-Coder-2007" alt="Next-Gen-Coder-2007's GitHub Contribution Chart">
+</a>
+
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">
+    ⚡ Git Stats Summary
+  </summary>
+  
+  <br>
+  
+  <img src="https://myreadme.vercel.app/api/embed/Next-Gen-Coder-2007?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Next-Gen-Coder-2007's GitHub Stats">
+  
+</details>
+
+---
+
+<h3 align="center">📊 Profile Statistics</h3>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Next-Gen-Coder-2007&color=00D9FF&style=for-the-badge)
+![](https://img.shields.io/github/followers/Next-Gen-Coder-2007?style=for-the-badge&color=00D9FF)
+![](https://img.shields.io/github/stars/Next-Gen-Coder-2007?style=for-the-badge&color=00D9FF)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Built with 💜 by Subash Baskaran</sub>
+
+<h3>💡 Quote of the Day</h3>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<h2 align="center">📫 Let's Connect!</h2>
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subash59245@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subash-baskaran)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://next-gen-coder-2007.github.io/personal-portfolio)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/subash59245)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subash_8776)
+
+</div>
+
+---
+
+<details>
+<summary><strong>🎮 Wanna Play a Game?</strong></summary>
+
+<br>
+
+<h2 align="center">Enjoy the Game!</h2>
+<div align="center">
+  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Game" />
+</div>
+
+</details>
+
+---
+
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=100&section=footer" width="100%"/>
+</h3>
+
+<div align="center">
+  
+⭐️ From [Subash Baskaran](https://github.com/Next-Gen-Coder-2007) | Let's build the future together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+
 </div>
