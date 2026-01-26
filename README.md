@@ -209,55 +209,6 @@ I'm committed to continuous learning and staying at the forefront of technology,
 
 ---
 
-<h3 align="center">Professional Highlights</h3>
-
-<div align="center">
-
-| **Education** | **Development** | **AI/ML** | **Tools** |
-|:---:|:---:|:---:|:---:|
-| B.Tech CSE (AI) | MERN Stack | Computer Vision | Git, VS Code |
-| Strong Foundation | Full Stack Projects | OpenCV Projects | Postman, APIs |
-| AI Specialization | Flask Applications | Data Analysis | Version Control |
-
-</div>
-
----
-
-<h3 align="center">GitHub Contribution Activity</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Next-Gen-Coder-2007&custom_title=Subash's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=00D9FF&line=1E90FF&point=1E90FF&area_color=000000&title_color=00D9FF&area=true" alt="GitHub Activity Graph" />
-</div>
-
-<a href="https://github.com/Next-Gen-Coder-2007">
-    <img src="https://ghchart.rshah.org/Next-Gen-Coder-2007" alt="Next-Gen-Coder-2007's GitHub Contribution Chart">
-</a>
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    Git Stats Summary
-  </summary>
-  
-  <br>
-  
-  <img src="https://myreadme.vercel.app/api/embed/Next-Gen-Coder-2007?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Next-Gen-Coder-2007's GitHub Stats">
-  
-</details>
-
----
-
-<h3 align="center">Profile Statistics</h3>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Next-Gen-Coder-2007&color=00D9FF&style=for-the-badge)
-![](https://img.shields.io/github/followers/Next-Gen-Coder-2007?style=for-the-badge&color=00D9FF)
-![](https://img.shields.io/github/stars/Next-Gen-Coder-2007?style=for-the-badge&color=00D9FF)
-
-</div>
-
----
-
 <div align="center">
 
 <h3>Quote of the Day</h3>
