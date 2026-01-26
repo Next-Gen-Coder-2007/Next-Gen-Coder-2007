@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=200&section=header&text=SUBASH%20BASKARAN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-<div align="center">
-  <a href="https://next-gen-coder-2007.github.io/personal-portfolio">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Subash%20Baskaran&description=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20specializing%20in%20MERN%20Stack,%20Flask,%20and%20Computer%20Vision.%20Building%20intelligent%20systems%20and%20real-world%20applications%20that%20make%20a%20difference.%20Passionate%20about%20pushing%20technological%20boundaries%20and%20delivering%20exceptional%20results.&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2FNext-Gen-Coder-2007&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&instagram=subash_8776&linkedin=subash-baskaran&github=Next-Gen-Coder-2007&twitter=subash59245" alt="Subash Baskaran's Card" />
-  </a>
-</div>
-
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> , I'm Subash Baskaran</h1>
 
 <p align="center">
