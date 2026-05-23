@@ -10,18 +10,45 @@
   Tech Enthusiast | Problem Solver | Innovation Driver
 </p>
 
-<div align="center">
-  <h2>Connect with Me</h2>
-  <p>Let's build something amazing together!</p>
+<h2 align="center">Connect with Me</h2>
 
-  | Portfolio | Leetcode | LinkedIn | Twitter | Instagram |
-  | --- | --- | --- | --- | --- |
-  |
-  [![Portfolio](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Portfolio&size=square)](https://portfolio-five-ebon-97.vercel.app/) |
-  [![LeetCode](https://bentos.jkominovic.dev/api/v1/generic-card?icon=leetcode&subtitle=LeetCode&size=square)](https://leetcode.com/u/subashB_programmer) |
-  [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Fsubash-baskaran&subtitle=@subash-baskaran&size=square)](https://linkedin.com/in/subash-baskaran) |
-  [![Twitter](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fsubash59245&subtitle=@subash59245&size=square)](https://x.com/subash59245) |
-  [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Finstagram.com%2Fsubash_8776&subtitle=@subash_8776&size=square)](https://www.instagram.com/subash_8776) |
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="5" align="center" style="color: white;">Socials</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <a href="https://portfolio-five-ebon-97.vercel.app/">
+            <img src="https://skillicons.dev/icons?i=portfolio" width="50" height="50" alt="Portfolio"/><br>Portfolio
+          </a>
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://leetcode.com/u/subashB_programmer">
+            <img src="https://skillicons.dev/icons?i=leetcode" width="50" height="50" alt="LeetCode"/><br>LeetCode
+          </a>
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://linkedin.com/in/subash-baskaran">
+            <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/><br>LinkedIn
+          </a>
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://x.com/subash59245">
+            <img src="https://skillicons.dev/icons?i=twitter" width="50" height="50" alt="Twitter"/><br>Twitter
+          </a>
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://www.instagram.com/subash_8776">
+            <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram"/><br>Instagram
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 
@@ -30,16 +57,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Next-Gen-Coder-2007&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
-
-<h2 align="center">About Me</h2>
-
-As a passionate **Full-Stack Developer** and **B.Tech CSE (AI) Student**, I specialize in building scalable web applications using the **MERN Stack** and **Flask**. My expertise spans across **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**, where I develop intelligent systems that solve real-world problems.
-
-With a strong foundation in both frontend and backend technologies, I create seamless user experiences while implementing robust server-side logic. My projects range from comprehensive **School Management Systems** to advanced **Face Recognition** applications, demonstrating my ability to tackle diverse technical challenges.
-
-I'm committed to continuous learning and staying at the forefront of technology, always exploring new frameworks, tools, and methodologies to deliver exceptional results.
-
-<br>
 
 <h2 align="center">Tech Stack</h2>
 
@@ -211,30 +228,6 @@ I'm committed to continuous learning and staying at the forefront of technology,
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Next-Gen-Coder-2007&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </div>
-
----
-
-<div align="center">
-
-<h3>Quote of the Day</h3>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<details>
-<summary><strong>Wanna Play a Game?</strong></summary>
-
-<br>
-
-<h2 align="center">Enjoy the Game!</h2>
-<div align="center">
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Game" />
-</div>
-
-</details>
 
 ---
 
