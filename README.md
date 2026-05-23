@@ -6,10 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=B.Tech+CSE+(AI)+Student;Full-Stack+Developer;AI+%26+ML+Explorer;MERN+Stack+%7C+Flask+%7C+Python;Computer+Vision+Engineer;" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  Tech Enthusiast | Problem Solver | Innovation Driver
-</p>
-
 <h2 align="center">Connect with Me</h2>
 
 <div align="center">
@@ -23,34 +19,33 @@
       <tr>
         <td align="center" style="border: none;">
           <a href="https://portfolio-five-ebon-97.vercel.app/">
-            <img src="https://skillicons.dev/icons?i=portfolio" width="50" height="50" alt="Portfolio"/><br>Portfolio
+            <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="50" height="50" alt="Portfolio"/><br>Portfolio
           </a>
         </td>
         <td align="center" style="border: none;">
           <a href="https://leetcode.com/u/subashB_programmer">
-            <img src="https://skillicons.dev/icons?i=leetcode" width="50" height="50" alt="LeetCode"/><br>LeetCode
+            <img src="https://cdn.simpleicons.org/leetcode/ffffff" width="50" height="50" alt="LeetCode"/><br>LeetCode
           </a>
         </td>
         <td align="center" style="border: none;">
           <a href="https://linkedin.com/in/subash-baskaran">
-            <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/><br>LinkedIn
+            <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="50" height="50" alt="LinkedIn"/><br>LinkedIn
           </a>
         </td>
         <td align="center" style="border: none;">
           <a href="https://x.com/subash59245">
-            <img src="https://skillicons.dev/icons?i=twitter" width="50" height="50" alt="Twitter"/><br>Twitter
+            <img src="https://cdn.simpleicons.org/x/ffffff" width="50" height="50" alt="Twitter"/><br>Twitter
           </a>
         </td>
         <td align="center" style="border: none;">
           <a href="https://www.instagram.com/subash_8776">
-            <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram"/><br>Instagram
+            <img src="https://cdn.simpleicons.org/instagram/ffffff" width="50" height="50" alt="Instagram"/><br>Instagram
           </a>
         </td>
       </tr>
     </tbody>
   </table>
 </div>
-
 
 <br>
 
