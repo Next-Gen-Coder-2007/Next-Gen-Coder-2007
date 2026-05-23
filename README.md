@@ -29,12 +29,12 @@
         </td>
         <td align="center" style="border: none;">
           <a href="https://linkedin.com/in/subash-baskaran">
-            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Fsubash-baskaran&subtitle=@subash-baskaran&size=square" width="50" height="50" alt="LinkedIn"/><br>LinkedIn
+            <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/><br>LinkedIn
           </a>
         </td>
         <td align="center" style="border: none;">
           <a href="https://x.com/subash59245">
-            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fsubash59245&subtitle=@subash59245&size=square" width="50" height="50" alt="Twitter"/><br>Twitter
+            <img src="https://skillicons.dev/icons?i=twitter" width="50" height="50" alt="Twitter"/><br>Twitter
           </a>
         </td>
       </tr>
