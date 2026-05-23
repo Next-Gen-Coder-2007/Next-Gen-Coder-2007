@@ -29,17 +29,12 @@
         </td>
         <td align="center" style="border: none;">
           <a href="https://linkedin.com/in/subash-baskaran">
-            <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="50" height="50" alt="LinkedIn"/><br>LinkedIn
+            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Fsubash-baskaran&subtitle=@subash-baskaran&size=square" width="50" height="50" alt="LinkedIn"/><br>LinkedIn
           </a>
         </td>
         <td align="center" style="border: none;">
           <a href="https://x.com/subash59245">
-            <img src="https://cdn.simpleicons.org/x/ffffff" width="50" height="50" alt="Twitter"/><br>Twitter
-          </a>
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://www.instagram.com/subash_8776">
-            <img src="https://cdn.simpleicons.org/instagram/ffffff" width="50" height="50" alt="Instagram"/><br>Instagram
+            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fsubash59245&subtitle=@subash59245&size=square" width="50" height="50" alt="Twitter"/><br>Twitter
           </a>
         </td>
       </tr>
@@ -48,10 +43,6 @@
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Next-Gen-Coder-2007&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p>
 
 <h2 align="center">Tech Stack</h2>
 
@@ -209,14 +200,6 @@
 </div>
 
 <br>
-
-
-<h3 align="center">GitHub Analytics</h3>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Next-Gen-Coder-2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Next-Gen-Coder-2007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</div>
 
 <br/>
 
