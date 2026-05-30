@@ -46,143 +46,72 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<h3 align="center">Languages & Frameworks</h3>
-
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="8" align="center" style="color: white;">Languages</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/><br>Python
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/><br>JavaScript
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/><br>HTML5
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3"/><br>CSS3
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C"/><br>C
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C"/><br>C++
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<table border="0">
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Frontend Development</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/><br>React
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/><br>HTML5
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3"/><br>CSS3
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/><br>JavaScript
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<tbody>
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Backend Development</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/><br>Node.js
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express.js"/><br>Express.js
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI"/><br>FastAPI
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<tr>
+  <td><strong>Programming Languages:</strong></td>
+  <td><strong>Frontend Development:</strong></td>
+</tr>
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="2" align="center" style="color: white;">Databases</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/><br>MongoDB
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/><br>MySQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL"/><br>PostgreSQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="Supabase"/><br>Supabase
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase"/><br>Firebase
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<tr>
+  <td>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp" />
+  </td>
 
-<h3 align="center">Development Tools</h3>
+  <td>
+    <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,bootstrap,sass" />
+  </td>
+</tr>
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Tools & Platforms</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/><br>Git
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code"/><br>VS Code
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/><br>Postman
-      </td>
-    </tr>
-  </tbody>
+<tr>
+  <td><strong>Backend Development:</strong></td>
+  <td><strong>Databases & BaaS:</strong></td>
+</tr>
+
+<tr>
+  <td>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi" />
+  </td>
+
+  <td>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,sqlite" />
+  </td>
+</tr>
+
+<tr>
+  <td><strong>AI / ML & APIs:</strong></td>
+  <td><strong>Build Tools & Package Managers:</strong></td>
+</tr>
+
+<tr>
+  <td>
+    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,postman" />
+  </td>
+
+  <td>
+    <img src="https://skillicons.dev/icons?i=npm,webpack,vite" />
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Tools & Platforms:</strong></td>
+  <td><strong>Cloud & DevOps:</strong></td>
+</tr>
+
+<tr>
+  <td>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  </td>
+
+  <td>
+    <img src="https://skillicons.dev/icons?i=docker,vercel,netlify" />
+  </td>
+</tr>
+
+</tbody>
 </table>
 </div>
 
