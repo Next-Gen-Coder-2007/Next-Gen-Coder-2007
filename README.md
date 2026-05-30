@@ -124,6 +124,9 @@
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
       </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI"/><br>FastAPI
+      </td>
     </tr>
   </tbody>
 </table>
@@ -143,6 +146,15 @@
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/><br>MySQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL"/><br>PostgreSQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="Supabase"/><br>Supabase
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase"/><br>Firebase
       </td>
     </tr>
   </tbody>
