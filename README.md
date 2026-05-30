@@ -73,7 +73,7 @@
         <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C"/><br>C
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C"/><br>C
+        <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C"/><br>C++
       </td>
     </tr>
   </tbody>
@@ -143,31 +143,6 @@
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/><br>MySQL
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<h3 align="center">AI/ML & Data Science</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">AI/ML Tools & Libraries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/opencv-1.svg" width="50" height="50" alt="OpenCV"/><br>OpenCV
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50" alt="NumPy"/><br>NumPy
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="80" height="50" alt="Pandas"/><br>Pandas
       </td>
     </tr>
   </tbody>
