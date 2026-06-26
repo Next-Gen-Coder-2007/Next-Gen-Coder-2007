@@ -55,7 +55,7 @@
 
 <tr>
   <td>
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp" />
   </td>
 
   <td>
