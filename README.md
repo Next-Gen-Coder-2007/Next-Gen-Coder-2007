@@ -59,7 +59,7 @@
   </td>
 
   <td>
-    <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=react,next,vite,html,css,tailwind,bootstrap,sass" />
   </td>
 </tr>
 
