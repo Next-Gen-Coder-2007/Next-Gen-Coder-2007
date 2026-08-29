@@ -1,4 +1,4 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=200&section=header&text=SUBASH%20BASKARAN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=200&section=header&text=SUBASH%20BASKARAN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 
 <h2 align="center">Connect with Me</h2>
@@ -104,7 +104,7 @@
   </td>
 
   <td>
-    <img src="https://skillicons.dev/icons?i=docker,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,aws,azure" />
   </td>
 </tr>
 
@@ -114,4 +114,4 @@
 
 <h3 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=100&section=footer" width="100%"/>
-</h3> -->
+</h3>
