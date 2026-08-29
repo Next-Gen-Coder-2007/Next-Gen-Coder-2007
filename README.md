@@ -1,117 +1,39 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=200&section=header&text=SUBASH%20BASKARAN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Subash%20Baskaran&fontSize=55&fontFamily=Georgia&fontColor=C9D1D9&animation=scaleIn" width="100%"/>
 
+<h3 align="center">Computer Science & AI Student · Full-Stack Developer · AI/ML Enthusiast</h3>
 
-<h2 align="center">Connect with Me</h2>
-
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="5" align="center" style="color: white;">Socials</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <a href="https://subash-baskaran.vercel.app/">
-            <img src="https://img.icons8.com/color/48/user.png"
-                 width="55" height="55" alt="Portfolio"/><br>
-          </a>
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://leetcode.com/u/subashB_programmer">
-            <img src="https://cdn.simpleicons.org/leetcode/FFA116"
-                 width="50" height="50" alt="LeetCode"/><br>
-          </a>
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://linkedin.com/in/subash-baskaran">
-            <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/><br>
-          </a>
-        </td>
-        <td align="center" style="border: none;">
-          <a href="https://x.com/subash59245">
-            <img src="https://skillicons.dev/icons?i=twitter" width="50" height="50" alt="Twitter"/><br>
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<p align="center">
+  <a href="https://subash-baskaran.vercel.app/">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/subash-baskaran/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://leetcode.com/u/subashB_programmer">LeetCode</a>
+  &nbsp;•&nbsp;
+  <a href="https://x.com/subash59245">X</a>
+</p>
 
 <br>
 
-<h2 align="center">Tech Stack</h2>
+<h3 align="center">Tech Stack</h3>
 
-<div align="center">
-<table border="0">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,html,css,react,next,redis,,nodejs,express,fastapi,django" />
+</p>
 
-<tbody>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,docker,kubernetes,aws,vercel,linux" />
+</p>
 
-<tr>
-  <td><strong>Programming Languages:</strong></td>
-  <td><strong>Frontend Development:</strong></td>
-</tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,vite,postman,figma" />
+</p>
 
-<tr>
-  <td>
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp" />
-  </td>
+<br>
 
-  <td>
-    <img src="https://skillicons.dev/icons?i=figma,html,css,react,next" />
-  </td>
-</tr>
+<h3 align="center">Focus</h3>
 
-<tr>
-  <td><strong>Backend Development:</strong></td>
-  <td><strong>Databases & BaaS:</strong></td>
-</tr>
+<p align="center">
+  Artificial Intelligence · Machine Learning · Generative AI · Full-Stack Development · Cloud & DevOps
+</p>
 
-<tr>
-  <td>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi" />
-  </td>
-
-  <td>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-  </td>
-</tr>
-
-<tr>
-  <td><strong>AI / ML:</strong></td>
-  <td><strong>Build Tools & Package Managers:</strong></td>
-</tr>
-
-<tr>
-  <td>
-    <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
-  </td>
-
-  <td>
-    <img src="https://skillicons.dev/icons?i=npm,webpack,vite" />
-  </td>
-</tr>
-
-<tr>
-  <td><strong>Tools & Platforms:</strong></td>
-  <td><strong>Cloud & DevOps:</strong></td>
-</tr>
-
-<tr>
-  <td>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
-  </td>
-
-  <td>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,aws,azure" />
-  </td>
-</tr>
-
-</tbody>
-</table>
-</div>
-
-<h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=100&section=footer" width="100%"/>
-</h3>
+<br>
