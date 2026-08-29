@@ -55,11 +55,11 @@
 
 <tr>
   <td>
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp" />
   </td>
 
   <td>
-    <img src="https://skillicons.dev/icons?i=react,next,vite,html,css,tailwind,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=figma,html,css,react,next" />
   </td>
 </tr>
 
@@ -74,18 +74,18 @@
   </td>
 
   <td>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
   </td>
 </tr>
 
 <tr>
-  <td><strong>AI / ML & APIs:</strong></td>
+  <td><strong>AI / ML:</strong></td>
   <td><strong>Build Tools & Package Managers:</strong></td>
 </tr>
 
 <tr>
   <td>
-    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,postman" />
+    <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
   </td>
 
   <td>
@@ -100,7 +100,7 @@
 
 <tr>
   <td>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
   </td>
 
   <td>
