@@ -21,11 +21,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,mongodb,postgres,mysql,git,github,docker,kubernetes,aws,vercel,linux" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,mongodb,postgres,mysql,git,github,docker,kubernetes,aws,azure,vercel" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,vite,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=linux,pytorch,tensorflow,sklearn,vite,postman,figma" />
 </p>
 
 <br>
