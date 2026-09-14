@@ -2,7 +2,7 @@
 
 <h3 align="center">Computer Science & AI Student · Full-Stack Developer · AI/ML Enthusiast</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://subash-baskaran.vercel.app/">Portfolio</a>
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/subash-baskaran/">LinkedIn</a>
@@ -10,7 +10,7 @@
   <a href="https://leetcode.com/u/subashB_programmer">LeetCode</a>
   &nbsp;•&nbsp;
   <a href="https://x.com/subash59245">X</a>
-</p>
+</p> -->
 
 <br>
 
@@ -30,10 +30,10 @@
 
 <br>
 
-<h3 align="center">Focus</h3>
+<!-- <h3 align="center">Focus</h3>
 
 <p align="center">
   Artificial Intelligence · Machine Learning · Generative AI · Full-Stack Development · Cloud & DevOps
-</p>
+</p> -->
 
-<br>
+<!-- <br> -->
