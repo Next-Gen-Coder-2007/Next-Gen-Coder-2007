@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Subash%20Baskaran&fontSize=55&fontFamily=Georgia&fontColor=C9D1D9&animation=scaleIn" width="100%"/>
 
-<h3 align="center">Computer Science & AI Student · Full-Stack Developer · AI/ML Enthusiast</h3>
+<!-- <h3 align="center">Computer Science & AI Student · Full-Stack Developer · AI/ML Enthusiast</h3> -->
 
 <!-- <p align="center">
   <a href="https://subash-baskaran.vercel.app/">Portfolio</a>
