@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,pytorch,tensorflow,sklearn,vite,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=linux,pytorch,tensorflow,sklearn,vite,webpack,babel,postman,figma" />
 </p>
 
 <br>
