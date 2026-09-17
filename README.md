@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,mongodb,postgres,mysql,supabase,firebase,git,github,docker,kubernetes,aws,azure,vercel" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,mongodb,postgres,mysql,prisma,supabase,firebase,git,github,docker,kubernetes,aws,azure,vercel" />
 </p>
 
 <p align="center">
