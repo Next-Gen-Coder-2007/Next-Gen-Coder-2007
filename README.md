@@ -17,11 +17,11 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,html,css,react,redux,next,redis,nodejs,nestjs,flask,express" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,html,css,react,redux,next,redis,nodejs,nestjs,flask,express,graphql" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=graphql,fastapi,django,mongodb,postgres,mysql,git,github,docker,kubernetes,aws,azure,vercel" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,mongodb,postgres,mysql,supabase,firebase,git,github,docker,kubernetes,aws,azure,vercel" />
 </p>
 
 <p align="center">
